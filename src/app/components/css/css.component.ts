@@ -5,7 +5,7 @@ import {Component, OnInit} from '@angular/core';
   templateUrl: './css.component.html',
   styles: [`
     p {
-      color: red;
+      color: blanchedalmond;
     }
   `]
 })
